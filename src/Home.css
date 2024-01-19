@@ -67,13 +67,13 @@ span.ios-text {
     left: -25px;
 }
 .main-section-parent {
+    height: -webkit-min-content;
     height: min-content;
+    margin: auto;
     max-width: 1080px;
     overflow: hidden;
-    padding: 0;
+    padding: 144px 0 80px;
     width: 80%;
-    margin: auto;
-    padding: 400px 0 80px;
 }
 h1 {
     font-size: 59px;
