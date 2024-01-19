@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Haptic/static/css/main.8792d3dd.css",
+    "main.js": "/Haptic/static/js/main.6bfef891.js",
+    "static/js/787.0c565b19.chunk.js": "/Haptic/static/js/787.0c565b19.chunk.js",
+    "index.html": "/Haptic/index.html",
+    "main.8792d3dd.css.map": "/Haptic/static/css/main.8792d3dd.css.map",
+    "main.6bfef891.js.map": "/Haptic/static/js/main.6bfef891.js.map",
+    "787.0c565b19.chunk.js.map": "/Haptic/static/js/787.0c565b19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8792d3dd.css",
+    "static/js/main.6bfef891.js"
+  ]
+}
