@@ -140,7 +140,7 @@ img.main-onr-img {
 }
 @media only screen and (max-width: 480px) {
     .main-section-parent {
-    padding: 120px 0 80px;
+    padding: 120px 0 80px !important;
     }
 }
 
